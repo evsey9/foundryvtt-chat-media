@@ -1,4 +1,4 @@
-### 14.0.0
+### 14.0.0-1
 
 - v14 compatibily https://github.com/p4535992/foundryvtt-chat-media/pull/18
 
